@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\johnd\source\repos\MultiPageTable\MultiPageTable\Source.cpp(102,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\johnd\source\repos\MultiPageTable\MultiPageTable\Source.cpp(105,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\johnd\source\repos\MultiPageTable\MultiPageTable\Source.cpp(109,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MultiPageTable.vcxproj -> C:\Users\johnd\source\repos\MultiPageTable\x64\Debug\MultiPageTable.exe

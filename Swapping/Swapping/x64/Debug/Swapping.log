@@ -1,0 +1,3 @@
+﻿  Swapping.cpp
+C:\Users\johnd\source\repos\Swapping\Swapping\Swapping.h(205,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Swapping.vcxproj -> C:\Users\johnd\source\repos\Swapping\x64\Debug\Swapping.exe

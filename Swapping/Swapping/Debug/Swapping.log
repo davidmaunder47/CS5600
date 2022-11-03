@@ -1,0 +1,4 @@
+﻿  Swapping.cpp
+C:\Users\johnd\source\repos\Swapping\Swapping\Swapping.h(71,20): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\johnd\source\repos\Swapping\Swapping\Swapping.h(144,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Swapping.vcxproj -> C:\Users\johnd\source\repos\Swapping\Debug\Swapping.exe
