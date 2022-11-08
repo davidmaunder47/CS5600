@@ -26,3 +26,5 @@ The time taken to get through the four iterations will be plotted for each exper
             <li> Test 2 - Two Kill and no I/O requests </li>
             <li> Test 3 - No Kill and 2 I/O requests </li>
             <li> Test 4 - Two Kill and two I/O requests </li>
+
+Please see the attached PDF as it includes the results of this experiment.
